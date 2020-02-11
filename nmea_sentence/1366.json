@@ -1,0 +1,15 @@
+{
+    "op": "publish",
+    "topic": "/nmea_sentence",
+    "msg": {
+        "header": {
+            "seq": 1366,
+            "stamp": {
+                "secs": 1581389458,
+                "nsecs": 151338496
+            },
+            "frame_id": "gps"
+        },
+        "sentence": "$GPGGA,115058.151,0.027313,N,429.330886,W,1,10,0.01,-1.122360,M,0.000000,M,,*56"
+    }
+}
