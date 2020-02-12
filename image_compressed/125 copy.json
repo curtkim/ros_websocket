@@ -1,0 +1,16 @@
+{
+    "op": "publish",
+    "topic": "/image_compressed",
+    "msg": {
+        "header": {
+            "seq": 125,
+            "stamp": {
+                "secs": 1581389724,
+                "nsecs": 192217856
+            },
+            "frame_id": "camera"
+        },
+        "format": "jpeg",
+        "data": ""
+    }
+}
